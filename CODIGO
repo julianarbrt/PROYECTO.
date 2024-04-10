@@ -31,3 +31,7 @@ for pagina in range(len(Lector_Diccionario.pages)):
     Leer_pagina = Lector_Diccionario.pages[pagina]
     # Extraer texto de la pagina
     texto_Diccionario = Leer_pagina.extract_text()
+
+
+
+.
